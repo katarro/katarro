@@ -9,7 +9,7 @@
 🌱 &nbsp;Estoy orientando mi perfil profesional hacia el desarrollo Backend y Arquitectura Cloud.  
 ✍️ &nbsp;En mi tiempo libre, me dedico al resolver problemas en LeetCode y Lucha de brazos.  
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a pipe.castro.espinoza@gmail.com! Te responderé lo antes posible.  
-📄 &nbsp;Por favor, echa un vistazo a mi [Curriculum Vitae](https://github.com/user-attachments/files/16948788/CV.-.Felipe.Castro.pdf) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!  
+📄 &nbsp;Por favor, echa un vistazo a mi [Curriculum Vitae]() para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
