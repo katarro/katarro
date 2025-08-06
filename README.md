@@ -17,7 +17,7 @@
 
 ![NestJs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;
 ![Postges](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
