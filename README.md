@@ -1,6 +1,7 @@
-![Felipe Castro Espinoza](https://github.com/user-attachments/assets/b00f3083-d4f9-4d72-ace7-14ed1944033c)
+<img width="2048" height="1283" alt="Foto Github" src="https://github.com/user-attachments/assets/906bcd62-20de-41ba-b1ef-800e52c46049" />![Felipe Castro Espinoza](https://github.com/user-attachments/assets/b00f3083-d4f9-4d72-ace7-14ed1944033c)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Bienvenid@ a mi Perfil!</h2>
+<img width="2048" height="1283" alt="Foto Github" src="https://github.com/user-attachments/assets/f073161f-74cd-48a0-8c27-e6f8ce8f34f8" />
+<h2>¡Bienvenid@ a mi Perfil!</h2>
 
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
