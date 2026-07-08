@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-🎓 &nbsp;Actualmente estoy en mi utlimo semestre, estudiando Ingeniería Civil Informática y Telecomunicaciones en la Universidad Diego Portales.  
+🎓 &nbsp;Actualmente estoy como jefe de proyectos en Servicios Integrales L&S
 🌱 &nbsp;Estoy orientando mi perfil profesional hacia el desarrollo Backend y Arquitectura Cloud.  
 ✍️ &nbsp;En mi tiempo libre, me dedico al resolver problemas en LeetCode y Lucha de brazos.  
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a pipe.castro.espinoza@gmail.com! Te responderé lo antes posible.  
